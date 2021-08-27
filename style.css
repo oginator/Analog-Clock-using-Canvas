@@ -1,0 +1,8 @@
+html {
+    background: rgba(255, 255, 255, 0.26)
+}
+#analog-clock {
+    margin: auto;
+    width: 500px;
+    height: 500px;
+}
